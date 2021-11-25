@@ -1,6 +1,6 @@
    //made by aditya 
           //hope you enjoy :D
-
+               // idea by https://sonukushwaha.live
 
 
 let redLight = 'red'
